@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React native, Angular , Typescript, Nextjs**
 
-- 👯 I’m looking to collaborate on [Helu Social](https://github.com/pawan132/Helusocial)
-
 - 📫 How to reach me **kumar.732496@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
